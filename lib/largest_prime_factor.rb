@@ -17,3 +17,4 @@ def largest_prime_factor(number)
 end
 
 #puts largest_prime_factor(600851475143)
+puts largest_prime_factor(10)
